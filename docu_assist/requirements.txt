@@ -1,0 +1,5 @@
+crewai
+crewai[tools]
+python-dotenv
+arize-phoenix==3.24.0
+qdrant-client
